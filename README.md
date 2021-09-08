@@ -1,4 +1,4 @@
-# myskills - projeto de controle de skills
+# todos - projeto de controle de tarefas
 
 ## Preview
 
